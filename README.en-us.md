@@ -56,7 +56,7 @@ A VSCode extension that allows you to easily convert between Simplified and Trad
 - Ensure that Python is properly installed and added to your PATH environment variable
 - The first time you run the extension, it may take some time to install Python dependencies
 - Translation functionality relies on online translation services and requires an internet connection
-- Some translation APIs may have usage limitations or require keys to function
+- Some translation APIs may have usage limitations
 
 ## Version History
 
